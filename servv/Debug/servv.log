@@ -1,0 +1,9 @@
+﻿  ClientWork.cpp
+C:\Users\Kalio\OneDrive\Працоўны стол\универ\Курсач\Сервер\MeatType.h(19,35): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  Source.cpp
+C:\Users\Kalio\OneDrive\Працоўны стол\универ\Курсач\Сервер\ClientWork.cpp(482,8): warning C4101: tempSc: неиспользованная локальная переменная
+  SServer.cpp
+C:\Users\Kalio\OneDrive\Працоўны стол\универ\Курсач\Сервер\MeatType.h(19,35): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  Создание кода...
+C:\Users\Kalio\OneDrive\Працоўны стол\универ\Курсач\Сервер\MeatType.h(19,35): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+  servv.vcxproj -> C:\Users\Kalio\source\repos\servv\Debug\servv.exe
